@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --icon="icon.ico" --version-file="t_version.txt" "2) tk_app.py"
