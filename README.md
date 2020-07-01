@@ -6,10 +6,15 @@ Building Executable
 Run > CMD > pip install pyinstaller
 
 pyinstaller.exe app.py
+
 pyinstaller.exe --onefile app.py
+
 pyinstaller.exe --onefile --windowed app.py
+
 pyinstaller.exe --onefile --windowed --icon=app.ico app.py
+
 pyinstaller.exe --onefile --windowed --icon=app.ico --version-file=version.txt app.py
+
 
 Pyinstaller Error solutions:
 https://stackoverflow.com/questions/37815371/pyinstaller-failed-to-execute-script-pyi-rth-pkgres-and-missing-packages
