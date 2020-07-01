@@ -20,6 +20,7 @@ Pyinstaller Error solutions:
 https://stackoverflow.com/questions/37815371/pyinstaller-failed-to-execute-script-pyi-rth-pkgres-and-missing-packages
 
 Q. How to put application run at startup?
+
 Ans. 	a) Run > shell:startup [type enter]
 	b) Create a shortcut and browse to your exe.
 
