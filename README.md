@@ -3,7 +3,7 @@ creating exe and adding icon &amp; version code
 
 Watch Youtube Video first to understand how it all works:- https://youtu.be/boISYDbVcjs
 
-<div align="center">
+<div align="center" style="border: 5px outset red; background-color: black;">
   <a href="https://www.youtube.com/watch?v=boISYDbVcjs"><img src="https://img.youtube.com/vi/boISYDbVcjs/0.jpg" alt="FULL PYTHON TO EXE TUTORIAL A to Z in one video"></a>
 </div>
 
