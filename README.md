@@ -2,11 +2,11 @@
 creating exe and adding icon &amp; version code
 
 Watch Youtube Video first to understand how it all works:- https://youtu.be/boISYDbVcjs
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/boISYDbVcjs" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=boISYDbVcjs"><img src="https://img.youtube.com/vi/boISYDbVcjs/0.jpg" alt="FULL PYTHON TO EXE TUTORIAL A to Z in one video"></a>
+</div>
+
 Building Executable
 
 Run > CMD > pip install pyinstaller
