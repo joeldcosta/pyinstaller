@@ -2,14 +2,8 @@
 creating exe and adding icon &amp; version code
 
 Watch Youtube Video first to understand how it all works:- https://youtu.be/boISYDbVcjs
-<style>
-.myDiv {
-  border: 5px outset red;
-  background-color: lightblue;
-  text-align: center;
-}
-</style>
-<div class="myDiv" align="center">
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=boISYDbVcjs"><img src="https://img.youtube.com/vi/boISYDbVcjs/0.jpg" alt="FULL PYTHON TO EXE TUTORIAL A to Z in one video"></a>
 </div>
 
