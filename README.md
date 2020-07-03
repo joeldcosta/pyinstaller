@@ -1,6 +1,8 @@
 # pyinstaller
 creating exe and adding icon &amp; version code
 
+Watch Youtube Video first to understand how it all works:- https://youtu.be/boISYDbVcjs
+
 Building Executable
 
 Run > CMD > pip install pyinstaller
