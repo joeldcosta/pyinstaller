@@ -27,3 +27,8 @@ Ans. 	a) Run > shell:startup [type enter]
 	b) Create a shortcut and browse to your exe.
 
 Note:- icon size should be 256x256
+
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
